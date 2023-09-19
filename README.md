@@ -6,7 +6,7 @@ Performed Data Modelling and Data Analytics on the Uber dataset using various to
 
 ## Technologies Used
 Programming Language:
-    1. python3<br>
+    python3<br>
 
 Cloud Services:<br>
     1. Cloud Storage<br>
