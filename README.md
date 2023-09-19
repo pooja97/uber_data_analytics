@@ -9,7 +9,7 @@ Programming Language:
     python3<br>
 
 Cloud Services:<br>
-    1. Cloud Storage<br>
+    1. Google Cloud Storage<br>
     2. Compute Engine Instance for mage to create an ETL pipeline<br>
     3. BigQuery<br>
     4. Looker Studio<br>
