@@ -1,4 +1,4 @@
-# Uber Data Analytics | Data Engineering using GCP 
+# Uber Data Analytics | Data Engineering using Mage and GCP 
 
 ## Introduction
 
