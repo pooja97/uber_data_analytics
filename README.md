@@ -5,7 +5,7 @@
 Performed Data Modelling and Data Analytics on the Uber dataset using various tools and technologies, including Google Cloud Storage, python3, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Technologies Used
-Programming Language:<br>  
+Programming Language:
     1. python3<br>
 
 Cloud Services:<br>
