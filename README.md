@@ -2,16 +2,17 @@
 
 ## Introduction
 
-The goal is to perform data analytics on the Uber dataset using various tools and technologies, including Google Cloud Storage, python3, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+Performed Data Modelling and Data Analytics on the Uber dataset using various tools and technologies, including Google Cloud Storage, python3, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Technologies Used
-- Programming Language: python3
+Programming Language: 
+    1. python3
 
-Google Cloud Platform
-1. Cloud Storage
-2. Compute Engine Instance for mage to create an ETL pipeline
-3. BigQuery
-4. Looker Studio
+Cloud Services:
+    1. Cloud Storage
+    2. Compute Engine Instance for mage to create an ETL pipeline
+    3. BigQuery
+    4. Looker Studio
 
 Data Pipeine Tool - https://www.mage.ai/
 
@@ -22,7 +23,7 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 Dataset Link: https://storage.googleapis.com/uber-data-engineering-project-sdsu/uber_data.csv
 
 
-More info on the dataset:
+More information about the dataset:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
